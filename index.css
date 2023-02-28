@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+table,tr,td{
+    border: 2px solid;
+    border-collapse: collapse;  
+}
+table{
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    text-align: center;
+}
+.first{
+    width: 80%;
+    height: 7vh;
+    background-color: red;
+}
+.one{
+    background-color: rgb(214, 214, 21);
+}
+tr td{
+    padding: 10px;
+}
+.two{
+    width: 80%;
+    height: 7vh;
+}
+.eat{
+    background-color: gray;
+}
